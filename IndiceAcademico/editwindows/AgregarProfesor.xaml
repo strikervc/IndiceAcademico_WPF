@@ -5,10 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:IndiceAcademico.editwindows"
         mc:Ignorable="d"
-        Title="Agregar Profesor" Height="220.36" Width="401.8" ResizeMode="NoResize" WindowStartupLocation="Manual" Top="200" Left="200">
+        Title="Sistema Academico" Height="220.36" Width="401.8" ResizeMode="NoResize" WindowStartupLocation="Manual" Top="200" Left="200">
     <Grid>
         <Label Content="Agregar Profesor" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontFamily="Microsoft Sans Serif" FontSize="18"/>
-        <Rectangle Fill="Black" Height="3" Margin="10,45,10,0" VerticalAlignment="Top">
+        <Rectangle Fill="Red" Height="3" Margin="10,45,10,0" VerticalAlignment="Top">
         </Rectangle>
         <Button Content="Guardar" HorizontalAlignment="Left" Margin="277,13,0,0" VerticalAlignment="Top" Width="75" Click="Guardar_Click"/>
         <Label Content="Nombre Completo" HorizontalAlignment="Left" Margin="43,75,0,0" VerticalAlignment="Top"/>

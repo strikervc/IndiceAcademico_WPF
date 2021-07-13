@@ -5,18 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:IndiceAcademico.editwindows"
         mc:Ignorable="d"
-        Title="Editar Profesor" Height="220.36" Width="401.8" ResizeMode="NoResize" WindowStartupLocation="Manual" Top="200" Left="200">
+        Title="Sistema Academico" Height="220.36" Width="401.8" ResizeMode="NoResize" WindowStartupLocation="Manual" Top="200" Left="200">
     <Grid>
-        <Label Content="Editar Profesor" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontFamily="Microsoft Sans Serif" FontSize="18"/>
-        <Rectangle Fill="Black" Height="3" Margin="10,45,10,0" VerticalAlignment="Top">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="53*"/>
+            <ColumnDefinition Width="145*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Editar Profesor" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontFamily="Microsoft Sans Serif" FontSize="18" Grid.ColumnSpan="2"/>
+        <Rectangle Fill="Red" Height="3" Margin="10,45,10,0" VerticalAlignment="Top" Grid.ColumnSpan="2">
         </Rectangle>
-        <Button Content="Guardar" HorizontalAlignment="Left" Margin="277,13,0,0" VerticalAlignment="Top" Width="75" Click="Guardar_Click"/>
-        <Label Content="Nombre Completo" HorizontalAlignment="Left" Margin="31,75,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="inputNombre" x:FieldModifier="public" HorizontalAlignment="Left" Height="23" Margin="145,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <Label Content="Profesor" HorizontalAlignment="Left" Margin="86,106,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.389,1.987"/>
-        <ComboBox x:Name="ListaProfesores" HorizontalAlignment="Left" Margin="145,106,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ListaProfesores_SelectionChanged"/>
-        <Button Content="Estudiantes" HorizontalAlignment="Left" Margin="293,78,0,0" VerticalAlignment="Top" Width="75" Click="AgregarEstudiante_Click"/>
-        <Button Content="Asignaturas" HorizontalAlignment="Left" Margin="293,106,0,0" VerticalAlignment="Top" Width="75" Click="AgregarAsignatura_Click"/>
+        <Button Content="Guardar" HorizontalAlignment="Left" Margin="171.164,13,0,0" VerticalAlignment="Top" Width="75" Click="Guardar_Click" Grid.Column="1"/>
+        <Label Content="Nombre Completo" HorizontalAlignment="Left" Margin="31,75,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="inputNombre" x:FieldModifier="public" HorizontalAlignment="Left" Height="23" Margin="39.164,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
+        <Label Content="Profesor" HorizontalAlignment="Left" Margin="86,106,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.389,1.987" Grid.ColumnSpan="2"/>
+        <ComboBox x:Name="ListaProfesores" HorizontalAlignment="Left" Margin="39.164,106,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ListaProfesores_SelectionChanged" Grid.Column="1"/>
+        <Button Content="Estudiantes" HorizontalAlignment="Left" Margin="187.164,78,0,0" VerticalAlignment="Top" Width="75" Click="AgregarEstudiante_Click" Grid.Column="1"/>
+        <Button Content="Asignaturas" HorizontalAlignment="Left" Margin="187.164,106,0,0" VerticalAlignment="Top" Width="75" Click="AgregarAsignatura_Click" Grid.Column="1"/>
 
     </Grid>
 </Window>
