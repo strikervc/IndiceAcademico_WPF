@@ -1,57 +1,3 @@
-<<<<<<< HEAD
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\bin\Debug\IndiceAcademico.exe.config
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\bin\Debug\IndiceAcademico.exe
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\bin\Debug\IndiceAcademico.pdb
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\IndiceAcademico.csproj.AssemblyReference.cache
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\AgregarAsignatura.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\AgregarCalificacion.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\AgregarEstudiante.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\AgregarProfesor.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\EditarAsignatura.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\EditarEstudiante.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\EditarAsignaturasProfesor.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\EditarEstudiantesProfesor.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\EditarProfesor.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\EstudianteMainWindow.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\LoginWindow.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\mainwindows\AsignaturasWindow.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\mainwindows\CalificacionWindow.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\mainwindows\EstudiantesWindow.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\MainWindow.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\mainwindows\IndiceWindow.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\mainwindows\ProfesoresWindow.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\mainwindows\RankingWindow.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\ProfesorMainWindow.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\App.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\IndiceAcademico_MarkupCompile.cache
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\IndiceAcademico_MarkupCompile.lref
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\AgregarAsignatura.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\AgregarCalificacion.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\AgregarEstudiante.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\AgregarProfesor.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\EditarAsignatura.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\EditarEstudiante.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\EditarAsignaturasProfesor.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\EditarEstudiantesProfesor.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\EditarProfesor.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\EstudianteMainWindow.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\LoginWindow.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\mainwindows\AsignaturasWindow.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\mainwindows\CalificacionWindow.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\mainwindows\EstudiantesWindow.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\MainWindow.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\mainwindows\IndiceWindow.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\mainwindows\ProfesoresWindow.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\mainwindows\RankingWindow.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\ProfesorMainWindow.baml
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\IndiceAcademico.g.resources
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\IndiceAcademico.Properties.Resources.resources
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\IndiceAcademico.csproj.GenerateResource.cache
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\IndiceAcademico.csproj.CoreCompileInputs.cache
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\IndiceAcademico.exe
-C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\IndiceAcademico.pdb
-=======
 C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\bin\Debug\IndiceAcademico.exe.config
 C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\bin\Debug\IndiceAcademico.exe
 C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\bin\Debug\IndiceAcademico.pdb
@@ -104,4 +50,3 @@ C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\Indice
 C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\IndiceAcademico.csproj.CoreCompileInputs.cache
 C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\IndiceAcademico.exe
 C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\IndiceAcademico.pdb
->>>>>>> 75f0ab4056e7d50ff616ee1b6573301906e3a014
