@@ -4,12 +4,20 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\
+=======
+C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\
+>>>>>>> 339a4f8 (Botones de Volver agregados a las ventanas de Agregar y Editar.)
 IndiceAcademico
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\App.xaml
+=======
+C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\App.xaml
+>>>>>>> 339a4f8 (Botones de Volver agregados a las ventanas de Agregar y Editar.)
 19129836352
 
 30138823493
