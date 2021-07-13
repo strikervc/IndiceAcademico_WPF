@@ -15,5 +15,6 @@
         <Label Content="Estudiante:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="40,120"/>
         <ComboBox x:Name="ListaEstudiantes" VerticalAlignment="Top" HorizontalAlignment="Left" Height="20" Width="100" Margin="40, 150, 0, 0"/>
         <Button x:Name="Agregar" Content="Agregar" Height="20" Width="60" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="40,190,0,0" Click="Agregar_Click"/>
+        <Button Content="Volver" HorizontalAlignment="Left" Margin="40,278,0,0" VerticalAlignment="Top" Width="75" Click="Volver_Click" RenderTransformOrigin="-0.759,-5.472"/>
     </Grid>
 </Window>

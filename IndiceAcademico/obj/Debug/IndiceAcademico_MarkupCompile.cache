@@ -4,11 +4,16 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\
+=======
+C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\
+>>>>>>> 339a4f8 (Botones de Volver agregados a las ventanas de Agregar y Editar.)
 IndiceAcademico
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\App.xaml
 19129836352
 
@@ -16,5 +21,19 @@ C:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio
 13-1505183044
 editwindows\AgregarAsignatura.xaml;editwindows\AgregarCalificacion.xaml;editwindows\AgregarEstudiante.xaml;editwindows\AgregarProfesor.xaml;editwindows\EditarAsignatura.xaml;editwindows\EditarEstudiante.xaml;editwindows\EditarAsignaturasProfesor.xaml;editwindows\EditarEstudiantesProfesor.xaml;editwindows\EditarProfesor.xaml;EstudianteMainWindow.xaml;LoginWindow.xaml;mainwindows\AsignaturasWindow.xaml;mainwindows\CalificacionWindow.xaml;mainwindows\EstudiantesWindow.xaml;MainWindow.xaml;mainwindows\IndiceWindow.xaml;mainwindows\ProfesoresWindow.xaml;mainwindows\RankingWindow.xaml;ProfesorMainWindow.xaml;
 
+<<<<<<< HEAD
 False
+=======
+True
+=======
+C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\App.xaml
+19129836352
+
+29981182860
+13-1505183044
+editwindows\AgregarAsignatura.xaml;editwindows\AgregarCalificacion.xaml;editwindows\AgregarEstudiante.xaml;editwindows\AgregarProfesor.xaml;editwindows\EditarAsignatura.xaml;editwindows\EditarEstudiante.xaml;editwindows\EditarAsignaturasProfesor.xaml;editwindows\EditarEstudiantesProfesor.xaml;editwindows\EditarProfesor.xaml;EstudianteMainWindow.xaml;LoginWindow.xaml;mainwindows\AsignaturasWindow.xaml;mainwindows\CalificacionWindow.xaml;mainwindows\EstudiantesWindow.xaml;MainWindow.xaml;mainwindows\IndiceWindow.xaml;mainwindows\ProfesoresWindow.xaml;mainwindows\RankingWindow.xaml;ProfesorMainWindow.xaml;
+
+False
+>>>>>>> 339a4f8 (Botones de Volver agregados a las ventanas de Agregar y Editar.)
+>>>>>>> 75f0ab4056e7d50ff616ee1b6573301906e3a014
 

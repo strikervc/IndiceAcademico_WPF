@@ -1,3 +1,7 @@
 Clave,Nombre,Creditos
+<<<<<<< HEAD
 IDS300,Desarrollo de Software ,4
 IDS300L,Laboratorio Desarrollo de Software,1
+=======
+IDS325,Aseguramiento de la Calidad de Software,4
+>>>>>>> 75f0ab4056e7d50ff616ee1b6573301906e3a014
