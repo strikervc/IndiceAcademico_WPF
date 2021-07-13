@@ -84,5 +84,10 @@ namespace IndiceAcademico.editwindows
 				e.Handled = true;
 			}
 		}
-	}
+
+        private void Volver_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+    }
 }

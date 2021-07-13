@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-﻿
-
-FC:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\editwindows\AgregarCalificacion.xaml;;
-FC:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\editwindows\AgregarEstudiante.xaml;;
-FC:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\editwindows\AgregarProfesor.xaml;;
-FC:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\editwindows\EditarAsignatura.xaml;;
-FC:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\editwindows\EditarEstudiante.xaml;;
-FC:\Users\nel23\Desktop\INTEC\Aseguramiento de la Calidad de Software\Laboratorio\Codigo\IndiceAcademico_WPF\IndiceAcademico\editwindows\EditarProfesor.xaml;;
-=======
 ﻿C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\GeneratedInternalTypeHelper.g.i.cs
 
 FC:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\editwindows\AgregarAsignatura.xaml;;
@@ -29,5 +19,4 @@ FC:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\mainwindows\Ind
 FC:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\mainwindows\ProfesoresWindow.xaml;;
 FC:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\mainwindows\RankingWindow.xaml;;
 FC:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\ProfesorMainWindow.xaml;;
->>>>>>> 339a4f8 (Botones de Volver agregados a las ventanas de Agregar y Editar.)
 

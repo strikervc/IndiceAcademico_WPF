@@ -64,5 +64,10 @@ namespace IndiceAcademico
 			
 
 		}
-	}
+
+        private void Volver_Click(object sender, RoutedEventArgs e)
+        {
+			this.Close();
+		}
+    }
 }

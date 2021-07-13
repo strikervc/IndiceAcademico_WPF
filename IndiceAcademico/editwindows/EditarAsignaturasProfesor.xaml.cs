@@ -68,5 +68,10 @@ namespace IndiceAcademico.editwindows
             GridAsignaturas.ItemsSource = null;
             GridAsignaturas.ItemsSource = profesor.Asignaturas;
         }
+
+        private void Volver_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
     }
 }

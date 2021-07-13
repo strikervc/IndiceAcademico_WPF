@@ -7,11 +7,11 @@
         mc:Ignorable="d"
         Title="Sistema Academico" Height="220.36" Width="401.8" ResizeMode="NoResize" WindowStartupLocation="Manual" Top="200" Left="200">
     <Grid>
-<<<<<<< HEAD
+
         <Label Content="Agregar Asignatura" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontFamily="Microsoft Sans Serif" FontSize="18"/>
-=======
+
         <Label Content="Agregar Asignatura" HorizontalAlignment="Left" Margin="10,11,0,0" VerticalAlignment="Top" FontFamily="Microsoft Sans Serif" FontSize="18"/>
->>>>>>> 75f0ab4056e7d50ff616ee1b6573301906e3a014
+
         <Rectangle Fill="Red" Height="3" Margin="10,45,10,0" VerticalAlignment="Top">
         </Rectangle>
         <Button Content="Guardar" HorizontalAlignment="Left" Margin="302,155,0,0" VerticalAlignment="Top" Width="75" Click="Guardar_Click"/>

@@ -65,5 +65,10 @@ namespace IndiceAcademico.editwindows
             EditarAsignaturasProfesor editarAsignaturas = new EditarAsignaturasProfesor();
             editarAsignaturas.ShowDialog();
         }
+
+        private void Volver_Click(object sender, RoutedEventArgs e)
+        {
+			this.Close();
+        }
     }
 }

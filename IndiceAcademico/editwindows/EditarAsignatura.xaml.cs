@@ -56,5 +56,10 @@ namespace IndiceAcademico.editwindows
 				MessageBox.Show("Seleccione una asignatura para editar");
 			}
 		}
-	}
+
+        private void Volver_Click(object sender, RoutedEventArgs e)
+        {
+			this.Close();
+		}
+    }
 }
