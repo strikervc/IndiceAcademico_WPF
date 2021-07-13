@@ -1,7 +1,6 @@
 C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\bin\Debug\IndiceAcademico.exe.config
 C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\bin\Debug\IndiceAcademico.exe
 C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\bin\Debug\IndiceAcademico.pdb
-C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\IndiceAcademico.csprojAssemblyReference.cache
 C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\AgregarAsignatura.g.cs
 C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\AgregarCalificacion.g.cs
 C:\Users\KlayG\Source\Repos\IndiceAcademico_WPF\IndiceAcademico\obj\Debug\editwindows\AgregarEstudiante.g.cs

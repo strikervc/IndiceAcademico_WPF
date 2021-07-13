@@ -22,7 +22,21 @@ namespace IATest
                 Assert.AreEqual(value, expected);
 
             }
-//this is a comment
+
+            [TestMethod]
+            public void ValorN_Test()
+            {
+                IndiceCalc index = new IndiceCalc();
+                Calificacion cal = new Calificacion();
+                cal.Nota = 80.00;
+                double expected = 3;
+                double value = index.ValorNota(cal);
+
+                Assert.AreEqual(value, expected);
+
+            }
+
+            //this is a comment
             [TestMethod]
             public void LetraNota_Test()
             {
@@ -31,6 +45,19 @@ namespace IATest
                 cal.Nota = 80.00;
                 string letraNota = index.LetraNota(cal);
                 string expected = "B";
+
+                Assert.AreEqual(letraNota, expected);
+
+            }
+
+            [TestMethod]
+            public void LetraN_Test()
+            {
+                IndiceCalc index = new IndiceCalc();
+                Calificacion cal = new Calificacion();
+                cal.Nota = 90.00;
+                string letraNota = index.LetraNota(cal);
+                string expected = "A";
 
                 Assert.AreEqual(letraNota, expected);
 
@@ -76,6 +103,24 @@ namespace IATest
             }
 
             [TestMethod]
+            public void ObtenerC_Test()
+            {
+                IndiceCalc index = new IndiceCalc();
+                Calificacion cal1 = new Calificacion();
+                Asignatura asignatura = new Asignatura() { Creditos = 2 };
+
+                cal1.Asignatura = asignatura;
+
+
+                double expected = 2;
+                double value = index.ObtenerCreditos(cal1);
+
+
+                Assert.AreEqual(value, expected);
+
+            }
+
+            [TestMethod]
             public void ClasificarHonor_Test()
             {
                 Estudiante est = new Estudiante();
@@ -92,6 +137,39 @@ namespace IATest
 
             }
 
+            [TestMethod]
+            public void ClasificarH2_Test()
+            {
+                Estudiante est = new Estudiante();
+                IndiceCalc index = new IndiceCalc();
+                Asignatura asignatura = new Asignatura() { Creditos = 4 };
+                Calificacion cal1 = new Calificacion() { Nota = 80, Asignatura = asignatura };
+                est.Calificaciones.Add(cal1);
+
+                string resultadoEsperado = "Sin honor";
+                string honor;
+
+                honor = index.ClasificarHonor(est);
+                Assert.AreEqual(honor, resultadoEsperado);
+
+            }
+
+            [TestMethod]
+            public void ClasificarH3_Test()
+            {
+                Estudiante est = new Estudiante();
+                IndiceCalc index = new IndiceCalc();
+                Asignatura asignatura = new Asignatura() { Creditos = 4 };
+                Calificacion cal1 = new Calificacion() { Nota = 85, Asignatura = asignatura };
+                est.Calificaciones.Add(cal1);
+
+                string resultadoEsperado = "Magna Cum Laude";
+                string honor;
+
+                honor = index.ClasificarHonor(est);
+                Assert.AreEqual(honor, resultadoEsperado);
+
+            }
 
 
         }

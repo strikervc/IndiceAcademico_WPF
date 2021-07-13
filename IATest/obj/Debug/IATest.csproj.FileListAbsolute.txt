@@ -1,0 +1,10 @@
+C:\Users\KlayG\source\repos\IndiceAcademico_WPF\IATest\bin\Debug\IATest.dll
+C:\Users\KlayG\source\repos\IndiceAcademico_WPF\IATest\bin\Debug\IATest.pdb
+C:\Users\KlayG\source\repos\IndiceAcademico_WPF\IATest\bin\Debug\IndiceAcademico.exe
+C:\Users\KlayG\source\repos\IndiceAcademico_WPF\IATest\bin\Debug\IndiceAcademico.pdb
+C:\Users\KlayG\source\repos\IndiceAcademico_WPF\IATest\bin\Debug\IndiceAcademico.exe.config
+C:\Users\KlayG\source\repos\IndiceAcademico_WPF\IATest\obj\Debug\IATest.csprojAssemblyReference.cache
+C:\Users\KlayG\source\repos\IndiceAcademico_WPF\IATest\obj\Debug\IATest.csproj.CoreCompileInputs.cache
+C:\Users\KlayG\source\repos\IndiceAcademico_WPF\IATest\obj\Debug\IATest.csproj.CopyComplete
+C:\Users\KlayG\source\repos\IndiceAcademico_WPF\IATest\obj\Debug\IATest.dll
+C:\Users\KlayG\source\repos\IndiceAcademico_WPF\IATest\obj\Debug\IATest.pdb
